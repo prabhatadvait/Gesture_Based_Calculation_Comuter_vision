@@ -118,6 +118,6 @@ This project is licensed under the **MIT License** – you’re free to use, mod
 ## 📨 **Contact**
 
 For questions or collaborations, reach out to:  
-- **Prabhat Sharma**  
-  - LinkedIn: [Prabhat Sharma](https://www.linkedin.com/in/prabhat-kumar-1260a5259)  
+- **Prabhat Kumar**  
+  - LinkedIn: [Prabhat Kumar](https://www.linkedin.com/in/prabhat-kumar-1260a5259)  
   - Email: [prabhatsharma84226@gmail.com](mailto:prabhatsharma84226@gmail.com)  
